@@ -26,6 +26,7 @@ To create a Python class `Student` with a destructor.
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/4a805d99-d007-4980-8176-81dee48d6d83)
 
 ### RESULT
+Thus a Python class Student with a destructor was implemented and executed.
