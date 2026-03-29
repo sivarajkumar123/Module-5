@@ -34,7 +34,9 @@ To write a Python program to get the employee and doctor details and display the
 
 ### OUTPUT  
 
-(Output Screenshot)  
+![image](https://github.com/user-attachments/assets/d14f7c9f-610c-43e0-aa52-559d55899c79)
+
 
 
 ### RESULT
+Thus a Python program to get the employee and doctor details and display them using hierarchical inheritance. Create a parent (base) class named Details and two child (derived) classes named Employee and Doctor was executed and implemented successfully.
